@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @astromman
+- 👋 Hi, I’m @astromman aka Lloyd
 - 👀 I’m interested in Java and C# programming
 - 🌱 I’m currently learning C# and HTML, last time it was Java only
 - 💞️ I’m looking to collaborate on ...
